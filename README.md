@@ -172,9 +172,7 @@ Frequency vs Monetary Value
 
 ![Frequency vs Monetary Value](frequency-vs-monetary-value.png)
 
-
 Percentage of Customers by RFM 
-
 
 ![Percentage of Customers by RFM](percentage-of-customers-by-rfm-segment.png)
 
@@ -185,16 +183,7 @@ Percentage of Customers by RFM
 
 The Power BI dashboard provides an interactive view of customer segmentation, revenue contribution, RFM metrics, and customer-level details.
 
-Dashboard Highlights
-Total Customers: 5,881
-Total Revenue: £17.37M
-Average Customer Spend: £2.95K
-Customer distribution by RFM segment
-Revenue by customer segment
-Frequency vs Monetary analysis
-Customer-level RFM details
-Segment filtering
-Recency filtering
+![RFM-Retail E-commerce Dashboard](rfm-retail-ecommerce-dashboard .png)
 
 ## Key Findings
 
