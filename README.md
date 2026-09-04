@@ -170,6 +170,7 @@ Frequency vs Monetary Value
 This chart examines the relationship between purchase frequency and customer spending.
 
 ## Power BI Dashboard
+
 The Power BI dashboard provides an interactive view of customer segmentation, revenue contribution, RFM metrics, and customer-level details.
 
 Dashboard Highlights
@@ -184,6 +185,7 @@ Segment filtering
 Recency filtering
 
 ## Key Findings
+
 Champions are the most valuable customers, generating approximately £11.86M in revenue.
 Needs Attention is the largest customer segment, representing 45.69% of customers.
 At Risk customers represent a significant retention opportunity, with approximately £1.51M in total customer value.
@@ -192,6 +194,7 @@ Customer frequency and monetary value show that highly active customers can cont
 RFM segmentation provides a practical way to prioritize customer retention and marketing activities.
 
 ## Business Recommendations
+
 1. Retain Champions
 Reward Champions through:
 Loyalty programs
@@ -216,7 +219,7 @@ Test low-cost win-back campaigns for selected Lost customers while avoiding exce
 Use customer segments to personalize campaigns rather than applying the same marketing strategy to every customer.
 
 ## Analysis Workflow
-Raw Transaction Data
+```Raw Transaction Data
         ↓
 Exploratory Data Analysis
         ↓
@@ -239,6 +242,7 @@ Business Insights
 Recommendations
         ↓
 Power BI Dashboard
+```
 
 ## Tools & Technologies
 Python
@@ -287,4 +291,5 @@ By identifying Champions, Needs Attention, At Risk, and Lost customers, business
 
 ## Author
 Damilola Adejumo
+
 Data Analyst | Python | SQL | Power BI | Excel
