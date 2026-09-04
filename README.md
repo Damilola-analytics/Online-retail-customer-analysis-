@@ -161,7 +161,10 @@ These customers show very low engagement and purchasing activity.
 
 ## Key Visualizations
 Customer Distribution by RFM Segment
-customer-distribution-by-rfm-segment.png
+
+![Customer Distribution by RFM Segment](customer-distribution-by-rfm-segment.png)
+
+
 
 Revenue by Customer Segment
 total-revenue-by-customer-segment.png
