@@ -329,6 +329,6 @@ This project demonstrates how raw retail transaction data can be transformed int
 By identifying Champions, Needs Attention, At Risk, and Lost customers, businesses can prioritize retention efforts, personalize marketing strategies, and focus resources on customers with the greatest potential value.
 
 ## Author
-Damilola Adejumo
+Adejumo Damilola 
 
 Data Analyst | Python | SQL | Power BI | Excel
