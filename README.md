@@ -107,23 +107,23 @@ Segment
 Customers
 Percentage
 
-Needs Attention
+ - Needs Attention
 2,687
 45.69%
 
-Champions
+ - Champions
 1,297
 22.05%
 
-Lost
+ - Lost
 1,281
 21.78%
 
-At Risk
+ - At Risk
 616
 10.47%
 
-Total
+ - Total
 5,881
 100%
 
@@ -168,7 +168,9 @@ Champions generated the largest share of customer revenue, making them the most 
 
 ## At-Risk Customer Analysis
 
- - The At Risk segment contains: 616 customers
+The At Risk segment contains: 
+
+ - 616 customers
 
  - Average Recency: 359.51 days
 
@@ -182,7 +184,9 @@ This segment represents an important retention opportunity because these custome
 
 ## Lost Customer Analysis
 
- - The Lost segment contains: 1,281 customers
+The Lost segment contains: 
+
+ - 1,281 customers
 
  - Average Recency: 467.65 days
 
