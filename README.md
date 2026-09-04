@@ -76,15 +76,15 @@ TotalSpend = Quantity × Price
 ## RFM Analysis
 RFM analysis was used to evaluate customers based on three dimensions:
 
-•Recency
+ • Recency
 Measures how recently a customer made a purchase.
 Lower recency = more recent purchase.
 
-•Frequency
+ • Frequency
 Measures how frequently a customer placed orders.
 Higher frequency = more active customer.
 
-•Monetary
+ • Monetary
 Measures the total amount spent by a customer.
 Higher monetary value = higher customer value.
 
