@@ -121,13 +121,17 @@ At Risk
 Total
 5,881
 100%
+
 Champions
 Customers with strong recency, frequency, and monetary scores.
 These are the most valuable and engaged customers.
+
 Needs Attention
 Customers who require additional engagement to increase their loyalty and purchasing activity.
+
 At Risk
 Customers who previously demonstrated purchasing value but have not purchased recently.
+
 Lost
 Customers with low recency, frequency, and monetary scores who are likely to have disengaged.
 
@@ -152,15 +156,19 @@ Champions generated the largest share of customer revenue, making them the most 
 
 ## At-Risk Customer Analysis
 The At Risk segment contains:
+
 616 customers
 Average Recency: 359.51 days
 Average Frequency: 5.62 orders
 Average Monetary Value: £2,444.23
 Total Monetary Value: £1.51M
+
 This segment represents an important retention opportunity because these customers have demonstrated purchasing value but have not purchased recently.
 
 ## Lost Customer Analysis
+
 The Lost segment contains:
+
 1,281 customers
 Average Recency: 467.65 days
 Average Frequency: 1.19 orders
