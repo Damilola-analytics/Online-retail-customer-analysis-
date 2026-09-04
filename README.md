@@ -177,8 +177,6 @@ Percentage of Customers by RFM
 ![Percentage of Customers by RFM](percentage-of-customers-by-rfm-segment.png)
 
 
-
-
 ## Power BI Dashboard
 
 The Power BI dashboard provides an interactive view of customer segmentation, revenue contribution, RFM metrics, and customer-level details.
