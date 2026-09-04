@@ -76,15 +76,15 @@ TotalSpend = Quantity × Price
 ## RFM Analysis
 RFM analysis was used to evaluate customers based on three dimensions:
 
-Recency
+•Recency
 Measures how recently a customer made a purchase.
 Lower recency = more recent purchase.
 
-Frequency
+•Frequency
 Measures how frequently a customer placed orders.
 Higher frequency = more active customer.
 
-Monetary
+•Monetary
 Measures the total amount spent by a customer.
 Higher monetary value = higher customer value.
 
@@ -106,81 +106,91 @@ Customers were classified into four business segments:
 Segment
 Customers
 Percentage
+
 Needs Attention
 2,687
 45.69%
+
 Champions
 1,297
 22.05%
+
 Lost
 1,281
 21.78%
+
 At Risk
 616
 10.47%
+
 Total
 5,881
 100%
 
-Champions
+•Champions
 Customers with strong recency, frequency, and monetary scores.
 These are the most valuable and engaged customers.
 
-Needs Attention
+•Needs Attention
 Customers who require additional engagement to increase their loyalty and purchasing activity.
 
-At Risk
+•At Risk
 Customers who previously demonstrated purchasing value but have not purchased recently.
 
-Lost
+•Lost
 Customers with low recency, frequency, and monetary scores who are likely to have disengaged.
 
 ## Customer Value Analysis
+
 The analysis identified significant differences in revenue contribution across customer segments.
 Segment
+
 Total Revenue
 Average Spend
-Champions
+
+• Champions
 £11.86M
 £9,143.86
-Needs Attention
+
+• Needs Attention
 £3.69M
 £1,371.90
-At Risk
+
+• At Risk
 £1.51M
 £2,444.23
-Lost
+
+• Lost
 £0.32M
 £252.36
+
 Champions generated the largest share of customer revenue, making them the most valuable customer segment.
 
 ## At-Risk Customer Analysis
 
-The At Risk segment contains: 616 customers
+- The At Risk segment contains: 616 customers
 
-Average Recency: 359.51 days
+- Average Recency: 359.51 days
 
-Average Frequency: 5.62 orders
+- Average Frequency: 5.62 orders
 
-Average Monetary Value: £2,444.23
+- Average Monetary Value: £2,444.23
 
-Total Monetary Value: £1.51M
+- Total Monetary Value: £1.51M
 
 This segment represents an important retention opportunity because these customers have demonstrated purchasing value but have not purchased recently.
 
 ## Lost Customer Analysis
 
-The Lost segment contains:
+- The Lost segment contains: 1,281 customers
 
-1,281 customers
+- Average Recency: 467.65 days
 
-Average Recency: 467.65 days
+- Average Frequency: 1.19 orders
 
-Average Frequency: 1.19 orders
+- Average Monetary Value: £252.36
 
-Average Monetary Value: £252.36
-
-Total Monetary Value: £323K
+- Total Monetary Value: £323K
 
 These customers show very low engagement and purchasing activity.
 
