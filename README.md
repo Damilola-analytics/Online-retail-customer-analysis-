@@ -164,16 +164,22 @@ Customer Distribution by RFM Segment
 
 ![Customer Distribution by RFM Segment](customer-distribution-by-rfm-segment.png)
 
-
-
 Revenue by Customer Segment
-total-revenue-by-customer-segment.png
+
+![Revenue by Customer Segment](total-revenue-by-customer-segment.png)
 
 Frequency vs Monetary Value
-frequency-vs-monetary-value.png
+
+![Frequency vs Monetary Value](frequency-vs-monetary-value.png)
+
 
 Percentage of Customers by RFM 
-percentage-of-customers-by-rfm-segment.png
+
+
+![Percentage of Customers by RFM](percentage-of-customers-by-rfm-segment.png)
+
+
+
 
 ## Power BI Dashboard
 
